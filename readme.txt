@@ -8,3 +8,4 @@ creating a new branch called dev
 creating a new branch called feature1 is quick and simple
 git merge with --no--ff
 fix a bug on master branch
+fix another  bug on master branch agian
