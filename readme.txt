@@ -6,3 +6,4 @@ git tracks all changes of file
 my stubid boss prefers svn
 creating a new branch called dev
 creating a new branch called feature1 is quick and simple
+git merge with --no--ff
